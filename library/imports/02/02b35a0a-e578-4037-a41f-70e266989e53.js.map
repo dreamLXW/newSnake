@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../../assets/script/assets/script/Global.js"],"names":["cc","director","getPhysicsManager","enabled"],"mappings":";;;;;;AAAAA,GAAGC,QAAH,CAAYC,iBAAZ,GAAgCC,OAAhC,GAA0C,IAA1C","file":"Global.js","sourceRoot":"../../../../assets/script","sourcesContent":["cc.director.getPhysicsManager().enabled = true"]}
