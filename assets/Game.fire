@@ -2205,6 +2205,6 @@
     "scoreLabel": {
       "__id__": 56
     },
-    "addTailTime": 0.5
+    "addTailTime": 0.1
   }
 ]
