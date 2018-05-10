@@ -1,0 +1,287 @@
+2018-05-10T01:14:47.010Z - normal: Load ~/.CocosCreator/settings.json
+2018-05-10T01:14:47.013Z - normal: checking language setting...
+2018-05-10T01:14:47.013Z - normal: Language: zh
+2018-05-10T01:14:47.641Z - success: protocol editor-framework registered
+2018-05-10T01:14:47.642Z - success: protocol app registered
+2018-05-10T01:14:47.642Z - success: protocol theme registered
+2018-05-10T01:14:47.642Z - success: protocol packages registered
+2018-05-10T01:14:47.642Z - success: protocol unpack registerred
+2018-05-10T01:14:47.642Z - success: protocol disable-commonjs registerred
+2018-05-10T01:14:47.894Z - normal: connected!
+2018-05-10T01:14:47.897Z - normal: Check project /Users/antwand/newSnake
+2018-05-10T01:14:47.898Z - normal: Initializing Cocos2d
+2018-05-10T01:14:48.072Z - normal: Initializing Asset Database
+2018-05-10T01:14:48.099Z - success: protocol uuid registerred
+2018-05-10T01:14:48.099Z - success: protocol db registerred
+2018-05-10T01:14:48.099Z - success: protocol thumbnail registerred
+2018-05-10T01:14:48.099Z - normal: Loading editor/builtin packages
+2018-05-10T01:14:48.121Z - success: anysdk loaded
+2018-05-10T01:14:48.217Z - success: assets loaded
+2018-05-10T01:14:48.220Z - success: builder loaded
+2018-05-10T01:14:48.222Z - success: cocos-analytics loaded
+2018-05-10T01:14:48.226Z - success: console loaded
+2018-05-10T01:14:48.230Z - success: hierarchy loaded
+2018-05-10T01:14:48.234Z - success: inspector loaded
+2018-05-10T01:14:48.235Z - success: keystore loaded
+2018-05-10T01:14:48.239Z - success: node-library loaded
+2018-05-10T01:14:48.240Z - success: package-asset loaded
+2018-05-10T01:14:48.242Z - success: preferences loaded
+2018-05-10T01:14:48.244Z - success: project-exporter loaded
+2018-05-10T01:14:48.258Z - success: project-importer loaded
+2018-05-10T01:14:48.260Z - success: project-settings loaded
+2018-05-10T01:14:48.263Z - success: ui-kit loaded
+2018-05-10T01:14:48.267Z - success: ui-grid loaded
+2018-05-10T01:14:48.276Z - success: scene loaded
+2018-05-10T01:14:48.277Z - success: sprite-editor loaded
+2018-05-10T01:14:48.283Z - success: store loaded
+2018-05-10T01:14:48.288Z - success: timeline loaded
+2018-05-10T01:14:48.289Z - normal: Loading builtin packages
+2018-05-10T01:14:48.292Z - success: asset-db-debugger loaded
+2018-05-10T01:14:48.292Z - success: color-picker loaded
+2018-05-10T01:14:48.295Z - success: package-manager loaded
+2018-05-10T01:14:48.300Z - success: sdkbox loaded
+2018-05-10T01:14:48.303Z - success: tester loaded
+2018-05-10T01:14:48.307Z - success: ui-kit-preview-extra loaded
+2018-05-10T01:14:48.310Z - success: ui-kit-preview loaded
+2018-05-10T01:14:48.313Z - success: ui-tree loaded
+2018-05-10T01:14:49.124Z - normal: Initializing project /Users/antwand/newSnake
+2018-05-10T01:14:49.127Z - normal: Loading packages
+2018-05-10T01:14:49.131Z - normal: Watching packages
+2018-05-10T01:14:49.141Z - normal: Run Application
+2018-05-10T01:14:49.623Z - success: preview server running at http://localhost:7459
+2018-05-10T01:14:53.597Z - normal: 1.8.2
+2018-05-10T01:15:01.034Z - normal: Simulator: WORKAREA WIDTH 2048.00, HEIGHT 1107.00
+2018-05-10T01:15:01.041Z - normal: Simulator: FRAME SCALE = 1.00
+2018-05-10T01:15:01.051Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-05-10T01:15:01.052Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-05-10T01:15:01.052Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-05-10T01:15:01.117Z - normal: Simulator: 
+2018-05-10T01:15:01.118Z - normal: Simulator: {
+2018-05-10T01:15:01.118Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-05-10T01:15:01.118Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-05-10T01:15:01.118Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-05-10T01:15:01.118Z - normal: Simulator: 	gl.vendor: ATI Technologies Inc.
+2018-05-10T01:15:01.119Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-05-10T01:15:01.128Z - normal: Simulator: 	gl.renderer: AMD Radeon Pro 560 OpenGL Engine
+2018-05-10T01:15:01.129Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-05-10T01:15:01.131Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-05-10T01:15:01.131Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-05-10T01:15:01.132Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-05-10T01:15:01.132Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-05-10T01:15:01.132Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-05-10T01:15:01.132Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-05-10T01:15:01.132Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-05-10T01:15:01.132Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-05-10T01:15:01.133Z - normal: Simulator: 	gl.version: 2.1 ATI-1.60.26
+2018-05-10T01:15:01.133Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-05-10T01:15:01.133Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-05-10T01:15:01.133Z - normal: Simulator: }
+2018-05-10T01:15:01.133Z - normal: Simulator: 
+2018-05-10T01:15:01.134Z - normal: Simulator: 
+2018-05-10T01:15:01.134Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-05-10T01:15:01.165Z - normal: Simulator: Project Config:
+2018-05-10T01:15:01.166Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-05-10T01:15:01.166Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-05-10T01:15:01.166Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-05-10T01:15:01.167Z - normal: Simulator:     frame size: 1136 x 640
+2018-05-10T01:15:01.167Z - normal: Simulator:     frame scale: 1.00
+2018-05-10T01:15:01.167Z - normal: Simulator:     show console: NO
+2018-05-10T01:15:01.168Z - normal: Simulator:     write debug log: NO ()
+2018-05-10T01:15:01.169Z - normal: Simulator:     listen: 
+2018-05-10T01:15:01.169Z - normal: Simulator:     debugger: none
+2018-05-10T01:15:01.169Z - normal: Simulator:     add searching path:
+2018-05-10T01:15:01.174Z - normal: Simulator: ------------------------------------------------
+2018-05-10T01:15:01.174Z - normal: Simulator: LOAD Js FILE: main.js
+2018-05-10T01:15:01.175Z - normal: Simulator: ------------------------------------------------
+2018-05-10T01:15:01.175Z - normal: Simulator: Initializing JavaScriptCore 
+2018-05-10T01:15:01.276Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-05-10T01:15:01.502Z - normal: Simulator: iShow!
+2018-05-10T01:15:01.904Z - normal: Simulator: JS: InitScene: 2.8629999999999427ms
+2018-05-10T01:15:01.904Z - normal: Simulator: JS: AutoRelease: 0.08299999999996999ms
+2018-05-10T01:15:01.904Z - normal: Simulator: JS: Destroy: 0.06700000000000728ms
+2018-05-10T01:15:01.905Z - normal: Simulator: JS: AttachPersist: 0.01599999999996271ms
+2018-05-10T01:15:01.960Z - normal: Simulator: JS: Activate: 55.722999999999956ms
+2018-05-10T01:15:03.488Z - normal: Simulator: JS: Math.random : 0.05484669660410546POS : (-592.03, -79.24)
+2018-05-10T01:15:03.488Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:04.002Z - normal: Simulator: JS: Math.random : 0.7241374648205342POS : (418.97, -297.01)
+2018-05-10T01:15:04.003Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:04.509Z - normal: Simulator: JS: Math.random : 0.30318469028821227POS : (-370.43, 229.84)
+2018-05-10T01:15:04.509Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:05.019Z - normal: Simulator: JS: Math.random : 0.04088919002657454POS : (-445.05, -241.85)
+2018-05-10T01:15:05.019Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:05.530Z - normal: Simulator: JS: Math.random : 0.22343503090833539POS : (-524.46, -272.25)
+2018-05-10T01:15:05.530Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:06.039Z - normal: Simulator: JS: Math.random : 0.32156652107751393POS : (171.85, -151.22)
+2018-05-10T01:15:06.039Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:06.566Z - normal: Simulator: JS: Math.random : 0.9053375363118232POS : (-91.17, 314.28)
+2018-05-10T01:15:06.567Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:07.070Z - normal: Simulator: JS: Math.random : 0.15593552104469666POS : (-78.53, -116.30)
+2018-05-10T01:15:07.070Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:07.586Z - normal: Simulator: JS: Math.random : 0.7301029355332026POS : (-198.37, -108.96)
+2018-05-10T01:15:07.587Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:08.100Z - normal: Simulator: JS: Math.random : 0.598904575824424POS : (-602.05, -266.18)
+2018-05-10T01:15:08.100Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:08.603Z - normal: Simulator: JS: Math.random : 0.1130567905548896POS : (-312.42, 264.48)
+2018-05-10T01:15:08.603Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:09.114Z - normal: Simulator: JS: Math.random : 0.06634783902151586POS : (314.87, 247.74)
+2018-05-10T01:15:09.114Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:09.616Z - normal: Simulator: JS: Math.random : 0.5575425088080396POS : (-302.33, -131.83)
+2018-05-10T01:15:09.616Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:10.124Z - normal: Simulator: JS: Math.random : 0.9439999602564582POS : (474.31, -97.32)
+2018-05-10T01:15:10.125Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:10.660Z - normal: Simulator: JS: Math.random : 0.5411028643456469POS : (228.75, -146.85)
+2018-05-10T01:15:10.662Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:11.173Z - normal: Simulator: JS: Math.random : 0.706740770226598POS : (-72.37, 196.37)
+2018-05-10T01:15:11.173Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:11.673Z - normal: Simulator: JS: Math.random : 0.4999909542220442POS : (-14.33, -123.01)
+2018-05-10T01:15:11.674Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:12.211Z - normal: Simulator: JS: Math.random : 0.5829948573014718POS : (-154.05, 110.87)
+2018-05-10T01:15:12.211Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:12.691Z - normal: Simulator: JS: Math.random : 0.5455644834993926POS : (288.43, 159.47)
+2018-05-10T01:15:12.691Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:13.198Z - normal: Simulator: JS: Math.random : 0.9586338224503232POS : (325.16, -71.92)
+2018-05-10T01:15:13.198Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:13.708Z - normal: Simulator: JS: Math.random : 0.7068423196473045POS : (542.62, 135.72)
+2018-05-10T01:15:13.708Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:13.796Z - normal: Simulator: JS: GAME OVER！！！
+2018-05-10T01:15:14.212Z - normal: Simulator: JS: Math.random : 0.9750133509466941POS : (518.76, 278.54)
+2018-05-10T01:15:14.212Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:14.733Z - normal: Simulator: JS: Math.random : 0.26791308137861636POS : (-416.42, -143.70)
+2018-05-10T01:15:14.733Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:15.245Z - normal: Simulator: JS: Math.random : 0.9972930453336232POS : (238.01, 105.31)
+2018-05-10T01:15:15.246Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:15.762Z - normal: Simulator: JS: Math.random : 0.6864103719127279POS : (93.64, -78.38)
+2018-05-10T01:15:15.762Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:16.270Z - normal: Simulator: JS: Math.random : 0.744271788532903POS : (-209.39, -86.13)
+2018-05-10T01:15:16.270Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:16.783Z - normal: Simulator: JS: Math.random : 0.925889258038659POS : (-268.23, -320.18)
+2018-05-10T01:15:16.783Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:17.290Z - normal: Simulator: JS: Math.random : 0.43763241794054986POS : (-24.37, 114.29)
+2018-05-10T01:15:17.290Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:17.805Z - normal: Simulator: JS: Math.random : 0.3136353065739641POS : (-353.18, -213.80)
+2018-05-10T01:15:17.806Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:18.315Z - normal: Simulator: JS: Math.random : 0.196859925949864POS : (248.68, 280.83)
+2018-05-10T01:15:18.316Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:18.827Z - normal: Simulator: JS: Math.random : 0.9714392397996552POS : (320.94, -42.12)
+2018-05-10T01:15:18.827Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:19.330Z - normal: Simulator: JS: Math.random : 0.8375100043556717POS : (572.64, -46.83)
+2018-05-10T01:15:19.330Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:19.830Z - normal: Simulator: JS: Math.random : 0.05854906996807496POS : (313.25, -323.26)
+2018-05-10T01:15:19.830Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:20.342Z - normal: Simulator: JS: Math.random : 0.19363361628124365POS : (515.49, -134.60)
+2018-05-10T01:15:20.343Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:20.858Z - normal: Simulator: JS: Math.random : 0.9617968208641401POS : (105.41, -29.33)
+2018-05-10T01:15:20.858Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:21.359Z - normal: Simulator: JS: Math.random : 0.7776681384346954POS : (-400.56, -256.62)
+2018-05-10T01:15:21.359Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:21.870Z - normal: Simulator: JS: Math.random : 0.727729289531956POS : (-453.46, 188.87)
+2018-05-10T01:15:21.870Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:22.376Z - normal: Simulator: JS: Math.random : 0.005951654446314736POS : (-129.14, -274.86)
+2018-05-10T01:15:22.376Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:22.888Z - normal: Simulator: JS: Math.random : 0.3174030063391524POS : (243.98, -93.90)
+2018-05-10T01:15:22.889Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:23.339Z - normal: Simulator: JS: GAME OVER！！！
+2018-05-10T01:15:23.388Z - normal: Simulator: JS: Math.random : 0.5692730309749514POS : (-30.41, -33.51)
+2018-05-10T01:15:23.389Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:23.893Z - normal: Simulator: JS: Math.random : 0.9383060701090189POS : (-576.01, 100.91)
+2018-05-10T01:15:23.893Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:24.396Z - normal: Simulator: JS: Math.random : 0.12042508746055103POS : (133.00, -13.13)
+2018-05-10T01:15:24.397Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:24.910Z - normal: Simulator: JS: Math.random : 0.47332512812322414POS : (582.39, 204.65)
+2018-05-10T01:15:24.918Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:25.028Z - normal: Simulator: JS: GAME OVER！！！
+2018-05-10T01:15:25.410Z - normal: Simulator: JS: Math.random : 0.4622378043106028POS : (54.78, -270.70)
+2018-05-10T01:15:25.411Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:25.912Z - normal: Simulator: JS: Math.random : 0.20198593742578141POS : (-99.69, -147.22)
+2018-05-10T01:15:25.912Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:26.415Z - normal: Simulator: JS: Math.random : 0.6964827495679119POS : (311.91, -138.22)
+2018-05-10T01:15:26.416Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:26.931Z - normal: Simulator: JS: Math.random : 0.804201898162061POS : (-494.37, 146.73)
+2018-05-10T01:15:26.932Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:27.456Z - normal: Simulator: JS: Math.random : 0.16649729384556788POS : (-11.47, -324.46)
+2018-05-10T01:15:27.456Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:27.967Z - normal: Simulator: JS: Math.random : 0.9256117337617907POS : (367.68, 146.04)
+2018-05-10T01:15:27.967Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:28.468Z - normal: Simulator: JS: Math.random : 0.10846812320859656POS : (-301.17, -172.09)
+2018-05-10T01:15:28.468Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:28.976Z - normal: Simulator: JS: Math.random : 0.12243782017728921POS : (-600.69, 207.85)
+2018-05-10T01:15:28.976Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:29.490Z - normal: Simulator: JS: Math.random : 0.18171508179207807POS : (-503.74, 148.61)
+2018-05-10T01:15:29.490Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:29.999Z - normal: Simulator: JS: Math.random : 0.3438559872828636POS : (66.38, 139.24)
+2018-05-10T01:15:29.999Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:30.498Z - normal: Simulator: JS: Math.random : 0.3743631623531041POS : (226.19, -56.08)
+2018-05-10T01:15:30.499Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:31.003Z - normal: Simulator: JS: Math.random : 0.7505636720097183POS : (564.79, -205.48)
+2018-05-10T01:15:31.003Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:31.511Z - normal: Simulator: JS: Math.random : 0.6248014397870874POS : (328.45, -215.50)
+2018-05-10T01:15:31.511Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:32.181Z - normal: Simulator: JS: Math.random : 0.045172182399474514POS : (390.79, 115.44)
+2018-05-10T01:15:32.216Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:32.681Z - normal: Simulator: JS: Math.random : 0.9683300280150515POS : (-176.30, -188.86)
+2018-05-10T01:15:32.681Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:33.189Z - normal: Simulator: JS: Math.random : 0.27225669654939355POS : (78.70, -308.14)
+2018-05-10T01:15:33.189Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:33.689Z - normal: Simulator: JS: Math.random : 0.6059394371019072POS : (-311.44, -111.50)
+2018-05-10T01:15:33.689Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:34.224Z - normal: Simulator: JS: Math.random : 0.17053934974599583POS : (-587.62, 158.54)
+2018-05-10T01:15:34.224Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:34.225Z - normal: Simulator: JS: GAME OVER！！！
+2018-05-10T01:15:34.225Z - normal: Simulator: JS: GAME OVER！！！
+2018-05-10T01:15:34.241Z - normal: Simulator: JS: GAME OVER！！！
+2018-05-10T01:15:34.241Z - normal: Simulator: JS: GAME OVER！！！
+2018-05-10T01:15:34.241Z - normal: Simulator: JS: GAME OVER！！！
+2018-05-10T01:15:34.736Z - normal: Simulator: JS: Math.random : 0.300356433925298POS : (559.32, 55.41)
+2018-05-10T01:15:34.736Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:35.241Z - normal: Simulator: JS: Math.random : 0.7198093318673031POS : (-386.78, 302.59)
+2018-05-10T01:15:35.241Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:35.741Z - normal: Simulator: JS: Math.random : 0.13210519868873127POS : (602.95, 117.69)
+2018-05-10T01:15:35.742Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:36.258Z - normal: Simulator: JS: Math.random : 0.7622010648689721POS : (-72.89, -252.10)
+2018-05-10T01:15:36.258Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:36.763Z - normal: Simulator: JS: Math.random : 0.7447630446997855POS : (190.82, -120.72)
+2018-05-10T01:15:36.763Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:37.295Z - normal: Simulator: JS: Math.random : 0.61416542624265POS : (-156.83, -291.75)
+2018-05-10T01:15:37.296Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:37.811Z - normal: Simulator: JS: Math.random : 0.921361822379725POS : (453.78, -227.54)
+2018-05-10T01:15:37.812Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:38.311Z - normal: Simulator: JS: Math.random : 0.22098790763748055POS : (-137.10, 249.23)
+2018-05-10T01:15:38.311Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:38.360Z - normal: Simulator: JS: GAME OVER！！！
+2018-05-10T01:15:38.821Z - normal: Simulator: JS: Math.random : 0.9621211622205582POS : (528.72, -19.94)
+2018-05-10T01:15:38.821Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:39.321Z - normal: Simulator: JS: Math.random : 0.8145751324086615POS : (472.38, -66.42)
+2018-05-10T01:15:39.321Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:39.822Z - normal: Simulator: JS: Math.random : 0.4466255251630763POS : (405.08, -163.72)
+2018-05-10T01:15:39.823Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:40.339Z - normal: Simulator: JS: Math.random : 0.868323076908409POS : (28.09, -259.02)
+2018-05-10T01:15:40.339Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:40.842Z - normal: Simulator: JS: Math.random : 0.617791817853155POS : (274.68, -85.75)
+2018-05-10T01:15:40.842Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:41.353Z - normal: Simulator: JS: Math.random : 0.3189622510601031POS : (119.97, 89.27)
+2018-05-10T01:15:41.354Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:41.868Z - normal: Simulator: JS: Math.random : 0.9365650418082643POS : (44.88, -102.49)
+2018-05-10T01:15:41.868Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:42.375Z - normal: Simulator: JS: Math.random : 0.16576908001320556POS : (-292.70, 239.06)
+2018-05-10T01:15:42.375Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:42.843Z - normal: Simulator: JS: GAME OVER！！！
+2018-05-10T01:15:42.878Z - normal: Simulator: JS: Math.random : 0.5841130913379847POS : (-474.04, 70.31)
+2018-05-10T01:15:42.879Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:43.391Z - normal: Simulator: JS: Math.random : 0.29684503273545704POS : (422.07, 169.46)
+2018-05-10T01:15:43.391Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:43.898Z - normal: Simulator: JS: Math.random : 0.8294316228468179POS : (267.00, 203.93)
+2018-05-10T01:15:43.898Z - normal: Simulator: JS: color:  [object Object]
+2018-05-10T01:15:44.250Z - normal: Simulator: JS: GAME OVER
+2018-05-10T01:15:44.251Z - normal: Simulator: JS: GAME OVER！！！
+2018-05-10T01:15:47.337Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2018-05-10T01:15:47.337Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 521
+2018-05-10T01:15:47.342Z - normal: Simulator: GC end ..., (Native -> JS map) count: 496
+2018-05-10T01:15:47.343Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 496
+2018-05-10T01:15:47.346Z - normal: Simulator: GC end ..., (Native -> JS map) count: 496
+2018-05-10T01:15:47.352Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 496
+2018-05-10T01:15:47.353Z - normal: Simulator: GC end ..., (Native -> JS map) count: 496
+2018-05-10T01:15:47.361Z - normal: Simulator: Starting to cleanup dragonbones object, count: 0
+2018-05-10T01:15:47.361Z - normal: Simulator: After first cleanup, dragonbones object remained count: 0
+2018-05-10T01:15:47.361Z - normal: Simulator: After second cleanup, dragonbones object remained count: 0
+2018-05-10T01:15:47.361Z - normal: Simulator: ScriptEngine::cleanup end ...
+2018-05-10T01:15:49.370Z - info: shutdown preview server
