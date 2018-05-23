@@ -70,6 +70,9 @@
       },
       {
         "__id__": 60
+      },
+      {
+        "__id__": 61
       }
     ],
     "_prefab": null,
@@ -2206,5 +2209,18 @@
       "__id__": 56
     },
     "addTailTime": 0.2
+  },
+  {
+    "__type__": "fa7cf9+QaRK4ZeyGhbbC6p8",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 2
+    },
+    "_enabled": true,
+    "label": {
+      "__id__": 57
+    },
+    "text": "hello"
   }
 ]

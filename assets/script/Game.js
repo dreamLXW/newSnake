@@ -19,6 +19,7 @@ cc.Class({
         this.addTime = 0
         this.isAddTail = false
         this.tailList = new Array()
+        this.GradeTs = this.getComponent("GradeScript")
     },
 
     start () {
@@ -48,7 +49,8 @@ cc.Class({
 
     gameOver : function () {
         this.overNode.active = true
-        this.scoreLabel._components[0].string = "分数：" + this.snakeHeadNodeJs.grtScore()
+        this.GradeTs.updateGrade(this.snakeHeadNodeJs.grtScore())
+        //this.scoreLabel._components[0].string = "分数：" + this.snakeHeadNodeJs.grtScore()
         this.isAddTail = false
     },
 
